@@ -1,4 +1,4 @@
-### **Quran App**
+### **Quran Radio FM**
 
 A feature-rich Quran streaming app built with Flutter, designed with **Clean Architecture** and **BLoC** to ensure scalability, maintainability, and testability.  
 The app provides a smooth Quran listening experience through **reciters & surahs**, **live radio stations**, and a dedicated **audio player**, along with personalization features like **favorites**, **search**, **localization**, and **theme switching**.
